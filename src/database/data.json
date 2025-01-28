@@ -2,19 +2,6 @@
 	"angular": {
 		"beginner": [
 			{
-				"project_name": "quick-notes",
-				"creator": "osmoosiis",
-				"date": "Sun May 26 2024",
-				"github_url": "https://github.com/osmoosiis",
-				"avatar_url": "https://avatars.githubusercontent.com/u/138987789?v=4",
-				"description": "No description found",
-				"tags": [
-					"CSS3",
-					"HTML5",
-					"Angular.js"
-				]
-			},
-			{
 				"project_name": "task-manager",
 				"creator": "Mehul Prajapati",
 				"date": "Sat Oct 12 2024",
